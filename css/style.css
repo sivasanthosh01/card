@@ -1,0 +1,34 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	}
+	.happy {
+  
+  margin-left: 390px;
+  margin-right: 100px;
+  width: 40%;
+}
+.name{ 
+		text-align:center;
+		color:red;
+		margin:20px;
+		}
+.happy2{ text-align:center;
+		color:white;
+		
+
+}
+div{ 
+	background-color:green;
+	
+}
+.happy3 {
+	margin:30px 10px 30px 650px;
+	width:200px;
+	padding:20px;
+	background-color:blue;
+	color:white;
+	border:dotted;
+	border-radius:30px;
+}
